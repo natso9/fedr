@@ -1,18 +1,18 @@
 .countdown-container {
-
+  background-image: url("https://1.bp.blogspot.com/-4AlD3W7LuaE/YAxiU5N5gEI/AAAAAAAAA7s/Qh2e1X4K9poPluyS8HAAO2WiLQ9eqKUfACLcBGAsYHQ/s16000/66.jpg");
   padding: 24px;
   color: #1d3357;
   font-family: "Roboto", sans-serif;
-  width: 500px;
-
+  width: 485px;
+  box-sizing: border-box;
   margin: 0 auto;
-
+  box-shadow: 0 18px 22px -8px rgba(0, 0, 0, 0.6);
 }
 
 .countdown-container .countdown-heading {
   text-align: center;
   font-size: 32px;
-  margin: 8px 0;
+  margin: 40px 0;
 }
 
 .countdown-container .countdown-details {
@@ -20,8 +20,8 @@
 }
 
 .timer {
-  background: #1d3357;
-  color: #f1faee;
+  background: #562abd;
+  color: #ffffff;
   padding: 16px;
   display: flex;
   justify-content: space-between;
@@ -30,26 +30,27 @@
 }
 
 .timer .number {
-  font-size: 50px;
+  font-size: 26px;
   font-weight: bold;
 }
 
 .timer .unit {
-  color: #a8dadc;
+  color: #ffffff;
 }
 
 .countdown-btn {
-  background: #dc2e2e;
+  background: #e32b17;
   text-decoration: none;
-  padding: 16px 6px;
+  padding: 16px 32px;
   display: block;
-  margin: 52px -14px -14px -14px;
+  margin: 220px -24px -24px -24px;
   color: #f1faee;
   font-weight: bold;
-  text-align: center;
+  text-align: #ffffff;
   transition: background-color 500ms;
 }
 
-.countdown-btn:hover {body {background-position: center;
-    background-image: url("https://1.bp.blogspot.com/-DuVB_wml8i0/YAv97n0acvI/AAAAAAAAA6g/ZfIzNPXLRZcTl1Jai-jQNWtUhQ_DF8MtwCLcBGAsYHQ/s0/36-macbook-pro-16-inch.jpg");
-    background-attachment: fixed; }
+.countdown-btn:hover {
+
+
+}
